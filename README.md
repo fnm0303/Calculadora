@@ -1,3 +1,5 @@
+<img src = .docs/Calculadora gif.gif>
+
 # Calculadora #
 
 ## Projeto
