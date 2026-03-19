@@ -1,6 +1,6 @@
-<img src = .docs/Calculadora gif.gif>
-
 # Calculadora #
+
+![Uma calculadora rodando em terminal](./.docs/Calculadora.gif)
 
 ## Projeto
 
